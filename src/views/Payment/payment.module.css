@@ -1,0 +1,152 @@
+.payment_list{
+    width: 17.5%;
+    margin: 5px auto;
+    padding: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    text-align: center;
+    align-items: center;
+}
+.paginate_header{
+    position: fixed; 
+    top: 50;
+}
+.img1{
+    width: 100px;
+    height: 100px;
+}
+.img2{
+    width: 25px;
+    height: 25px;
+    border-radius: 5px;
+}
+.title_header{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    margin: auto;
+    height: auto;
+    background-color: teal;
+}
+.title_header_switch{
+    display: grid;
+    width: 125px;
+    align-items: center;
+    margin: auto;
+    height: auto;
+    background-color: teal;
+}
+.switch_item_lable{
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.user_title1{
+    margin-right: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+}
+.user_title2{
+    margin-right: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+}
+.user_title3{
+    margin-right: 10px;
+    font-size: 12px;
+    font-weight: 500;
+    color: #fff;
+}
+.user_title4{
+    font-size: 12px;
+    color: #fff;
+    font-weight: bold;
+}
+.text_badg{
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: bold;
+    width: 125px;
+}
+.body1{
+    margin-bottom: 30px;
+}
+.text_body1{
+    font-weight: bold;
+    color: #0088cc;
+    font-size: 18px;
+}
+.text_body2{
+    font-weight: 100;
+    font-size: 11px;
+}
+.text_body3{
+    font-weight: bold;
+    color: #000000;
+    font-size: 16px;
+}
+.text_body4{
+    font-weight: bold;
+    color: teal;
+    font-size: 16px;
+}
+.text_body6{
+    font-weight: 400;
+    color: #333;
+    font-size: 15px;
+    margin-inline: 15px;
+}
+.text_body7{
+    margin-right: 10px;
+    font-size: 12px;
+    font-weight: 500;
+    color: #000;
+}
+.text_body8{
+    font-weight: 600;
+    color: #333;
+    font-size: 15px;
+}
+.body_border{
+    width: 100%;
+    height: 1px;
+    background-color: teal;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.row_view{
+    display: flex;
+    align-items: center;
+}
+.footer{
+    background-color: teal;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.btn{
+    background-color: #0088cc;
+    border-color: #ffffff;
+    border-width: 1px;
+    border-radius: 20px;
+    height: 30;
+    margin-right: 10px;
+}
+.text_btn{
+    font-size: 13px;
+    color: #ffffff;
+    font-weight: 700;
+    width: 130px;
+}
+.loadingGetItem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

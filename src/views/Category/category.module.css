@@ -1,0 +1,98 @@
+.addGroupingJob{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    min-height: 400px;
+    height: auto;
+}
+.addNewJobMedia{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    min-height: 800px;
+    height: auto;
+}
+.addNewSubJob{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    min-height: 500px;
+    height: auto;
+}
+.addNewProvince{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    min-height: 400px;
+    height: auto;
+}
+.addNewCity{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    min-height: 600px;
+    height: auto;
+}
+.addBtn{
+    height: 70;
+    width: 180px;
+    align-self: flex-end;
+    background-color: #129651;
+    margin-top: 40px;
+}
+.errorText{
+    color: red;
+    text-align: right;
+}
+.addMediaCategory{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    min-height: 200px;
+    height: auto;
+    border: 4px dashed #b4b9be;
+}
+.fileSelection{
+    padding: 0.25rem 0.5rem;
+    font-size: 1.256rem;
+    line-height: 1.5;
+    border-radius: 01.256rem;
+    background-color: #0088cc;
+    border-color: #0088cc;
+}
+input[type="file"]{
+    display: none;
+}
+.file{
+    width: 180px;
+    margin: 5px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    text-align: center;
+}
+.file img{
+    width: 180px;
+    height: 180px;
+}
+.removeIcons{
+    position: absolute;
+    margin-right: 5px;
+}
+.childTheJob{
+    margin-top: 30px;
+}
+.childTheAdCategory{
+    margin-top: 20px;
+}

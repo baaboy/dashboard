@@ -1,0 +1,42 @@
+.content{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    min-height: 600px;
+    height: auto;
+}
+.errorText{
+    color: red;
+    text-align: right;
+}
+.addBtn{
+    height: 70;
+    width: 180px;
+    align-self: flex-end;
+    background-color: #129651;
+    margin-top: 40px;
+}
+.row_view{
+    display: flex;
+    align-items: center;
+    align-self: center;
+    width: 100%;
+}
+.btn{
+    height: 70;
+    width: 180px;
+    align-self: flex-end;
+    background-color: #129651;
+}
+.img1{
+    height: 60px;
+    width: 60px;
+    border-radius: 10px;
+}
+.img2{
+    height: 100px;
+    width: 250;
+    border-radius: 5px;
+}

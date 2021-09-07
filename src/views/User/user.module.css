@@ -1,0 +1,28 @@
+.numberOfUsers{
+    flex: auto;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+}
+.user_list_section{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 90%;
+    margin: auto;
+}
+.user_list{
+    width: 17.5%;
+    margin: 5px auto;
+    padding: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    text-align: center;
+    align-items: center;
+}
+.user_img{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
